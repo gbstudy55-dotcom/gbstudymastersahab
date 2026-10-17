@@ -1,0 +1,6 @@
+{
+  "name": "GB STUDY",
+  "description": "GB STUDY - Free online educational portal with structured batches, video lectures, and PDF notes for Class 9, 10, 11, 12, JEE, and NEET.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
